@@ -1,105 +1,105 @@
-# Temple Run - Projecte de Joc 3D
+# Temple Run - 3D Game Project
 
-Aquest és un projecte acadèmic desenvolupat com a part de l'assignatura de **Videojocs** del grau en **Enginyeria Informàtica**. Consisteix en la creació d'un joc 3D inspirat en l'estil de joc de *Temple Run*, amb funcionalitats i elements personalitzats.
+This is an academic project developed as part of the **Video Games** course for the **Computer Engineering** degree. The goal is to create a 3D game inspired by the gameplay of *Temple Run*, with custom features and elements.
 
-## Índex
+## Table of Contents
 
-1. [Descripció del Joc](#descripció-del-joc)
-2. [Funcionalitats Implementades](#funcionalitats-implementades)
-3. [Requisits del Sistema](#requisits-del-sistema)
-4. [Instruccions d'Ús](#instruccions-dús)
-5. [Metodologia](#metodologia)
-6. [Conclusions](#conclusions)
-7. [Crèdits](#crèdits)
-8. [Bibliografia](#bibliografia)
-
----
-
-## Descripció del Joc
-
-*Temple Run* és un videojoc de carreres infinites llançat originalment el 2011 per Imangi Studios. Aquest projecte adapta l'experiència a ordinador, afegint elements propis i personalitzats.
-
-### Característiques Principals:
-- **Públic objectiu**: Ampli, incloent adolescents i adults joves.
-- **Fites destacades**: Implementació de mapes procedurals, moviment del personatge (saltar, lliscar, girar), i sistema de puntuació basat en temps i monedes.
-- **Inspiració**: Elements clàssics de *Temple Run* amb afegits com so, animacions, i partícules per una millor interactivitat.
+1. [Game Description](#game-description)  
+2. [Implemented Features](#implemented-features)  
+3. [System Requirements](#system-requirements)  
+4. [Usage Instructions](#usage-instructions)  
+5. [Methodology](#methodology)  
+6. [Conclusions](#conclusions)  
+7. [Credits](#credits)  
+8. [Bibliography](#bibliography)  
 
 ---
 
-## Funcionalitats Implementades
+## Game Description
 
-### Personatge:
-- **Moviments bàsics**: Saltar, lliscar, moure’s lateralment, i girar.
-- **Efectes visuals i sonors**: Sons sincronitzats amb accions i partícules.
+*Temple Run* is an endless runner video game originally released in 2011 by Imangi Studios. This project adapts the experience for computers, adding unique features and custom elements.
 
-### Mapa:
-- Generació procedural amb:
-  - Rectes, girs, desviacions, penya-segats i obstacles.
-  - Interacció amb elements dinàmics com arbres i llançaflames.
-
-### Enemics:
-- Apareixen quan el jugador xoca amb certs obstacles i el segueixen fins que esquiva un altre objecte.
-
-### Altres:
-- Sistema de puntuació basat en la distància recorreguda i monedes recollides.
-- **God Mode**: Permet esquivar automàticament obstacles i girar.
+### Key Features:
+- **Target Audience**: Broad, including teenagers and young adults.  
+- **Notable Highlights**: Procedural map generation, character movement (jump, slide, turn), and a scoring system based on time and coins.  
+- **Inspiration**: Classic elements of *Temple Run* combined with custom sounds, animations, and particles for enhanced interactivity.  
 
 ---
 
-## Requisits del Sistema
+## Implemented Features
 
-- **Sistema Operatiu**: Windows 10 o superior.
-- **Eines**: Unity 3D (versió mínima: 2020.3) i GitHub Desktop.
-- **Hardware recomanat**: Processador i5, 8 GB de RAM, GPU compatible amb DirectX 11.
+### Character:
+- **Basic Movements**: Jump, slide, move laterally, and turn.  
+- **Visual and Sound Effects**: Sounds synchronized with actions and particle effects.  
 
----
+### Map:
+- Procedurally generated with:  
+  - Straights, turns, splits, cliffs, and obstacles.  
+  - Interaction with dynamic elements like trees and flamethrowers.  
 
-## Instruccions d'Ús
+### Enemies:
+- Appear when the player collides with specific obstacles and chase the character until another object is dodged.
 
-1. **Moviments bàsics**:
-   - Saltar: Fletxa amunt.
-   - Lliscament: Fletxa avall.
-   - Mou-te lateralment: Fletxes esquerra/dreta.
-   - Girar: Fletxes segons la direcció desitjada abans del gir.
-
-2. **Pantalles disponibles**:
-   - Menú principal.
-   - Instruccions.
-   - Joc.
-   - Crèdits.
-
-3. **Activar God Mode**:
-   - Premeu `G` durant la partida.
+### Other Features:
+- Scoring system based on distance covered and collected coins.  
+- **God Mode**: Automatically dodges obstacles and turns.  
 
 ---
 
-## Metodologia
+## System Requirements
 
-El projecte es va desenvolupar utilitzant **Trello** per gestionar tasques i col·laboració entre membres. A causa de problemes tècnics, es va optar per treballar amb un sol equip base.
+- **Operating System**: Windows 10 or later.  
+- **Tools**: Unity 3D (minimum version: 2020.3) and GitHub Desktop.  
+- **Recommended Hardware**: i5 processor, 8 GB RAM, DirectX 11-compatible GPU.  
+
+---
+
+## Usage Instructions
+
+1. **Basic Controls**:  
+   - Jump: Up arrow.  
+   - Slide: Down arrow.  
+   - Move laterally: Left/Right arrows.  
+   - Turn: Press the direction arrow before the turn.  
+
+2. **Available Screens**:  
+   - Main Menu.  
+   - Instructions.  
+   - Game.  
+   - Credits.  
+
+3. **Activate God Mode**:  
+   - Press `G` during gameplay.  
+
+---
+
+## Methodology
+
+The project was developed using **Trello** to manage tasks and collaboration among team members. Due to technical issues, the development was centralized on one computer for the base implementation.  
 
 ---
 
 ## Conclusions
 
-- **Èxits**: Es va aconseguir un joc funcional amb una estètica i jugabilitat similars a l'original.
-- **Aspectes a millorar**: Optimització del codi i perfeccionament del *God Mode* per incloure col·lecció de monedes automàtica.
+- **Achievements**: A functional game with aesthetics and gameplay similar to the original.  
+- **Improvements Needed**: Code optimization and enhancement of *God Mode* to include automatic coin collection.  
 
 ---
 
-## Crèdits
+## Credits
 
-- **Autors**:
-  - Diego Rodríguez Milagro
-  - Lluís Itarte Sahun
-- **Assignatura**: Videojocs
-- **Universitat**: Enginyeria Informàtica
+- **Authors**:  
+  - Diego Rodríguez Milagro  
+  - Lluís Itarte Sahun  
+- **Course**: Video Games  
+- **University**: Computer Engineering  
 
 ---
 
-## Bibliografia
+## Bibliography
 
-- [Models de Temple Run](https://www.models-resource.com/mobile/templerun/?source=genre)
-- [Sons de Temple Run](https://www.101soundboards.com/boards/41048-sound-effects-temple-run-miscellaneous-mobile)
-- [Font True Crimes](https://www.dafont.com/es/true-crimes.font)
-- [Pàgina oficial del joc](https://imangistudios.com/thegames/temple-run/)
-- [Wikipedia de Temple Run](https://en.wikipedia.org/wiki/Temple_Run)
+- [Temple Run Models](https://www.models-resource.com/mobile/templerun/?source=genre)  
+- [Temple Run Sounds](https://www.101soundboards.com/boards/41048-sound-effects-temple-run-miscellaneous-mobile)  
+- [True Crimes Font](https://www.dafont.com/es/true-crimes.font)  
+- [Official Game Website](https://imangistudios.com/thegames/temple-run/)  
+- [Temple Run Wikipedia](https://en.wikipedia.org/wiki/Temple_Run)  
