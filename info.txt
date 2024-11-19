@@ -1,6 +1,5 @@
 Lluis Itarte Sahun
 Diego Rodriguez milagro
 
-Per un problema de borrar la carpeta library, per poder jugar, un cop cargat 
-el projecte s'ha d'anar de la carpeta assets/escenes cargar la escena menu.
+Due to an issue with deleting the library folder, to be able to play, once the project is loaded, go to the assets/scenes folder and load the menu scene.
 
