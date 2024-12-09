@@ -1,5 +1,5 @@
 Lluis Itarte Sahun
-Diego Rodriguez milagro
+Diego Rodriguez Milagro
 
 Due to an issue with deleting the library folder, to be able to play, once the project is loaded, go to the assets/scenes folder and load the menu scene.
 
